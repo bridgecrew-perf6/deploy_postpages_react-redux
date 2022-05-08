@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy_postpages_react-redux/static/css/main.86892e79.css",
+    "main.js": "/deploy_postpages_react-redux/static/js/main.e5cd4588.js",
+    "index.html": "/deploy_postpages_react-redux/index.html",
+    "main.86892e79.css.map": "/deploy_postpages_react-redux/static/css/main.86892e79.css.map",
+    "main.e5cd4588.js.map": "/deploy_postpages_react-redux/static/js/main.e5cd4588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86892e79.css",
+    "static/js/main.e5cd4588.js"
+  ]
+}
